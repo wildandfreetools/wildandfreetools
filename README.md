@@ -18,15 +18,22 @@ Open any tool in your browser. Convert files, clean text, generate content, edit
 
 The same 350+ tools are available as a single installable skill bundle for AI coding agents.
 
-**Compatible with:**
+**Works in any of these agents:**
 - Claude Code, Claude Desktop
-- Cursor
+- Cursor, Windsurf
 - OpenAI Codex
 - Gemini CLI, Gemini Code Assist
-- Cline, Continue, Aider
-- Goose
+- Cline, Roo Code, Continue, Aider
+- Goose, Replit Agent
 - Any agent that supports Model Context Protocol
-- Local models via Ollama and LM Studio
+
+**Powered by any of these models:**
+- GPT-5, Claude Opus and Sonnet, Gemini
+- DeepSeek, Qwen, Llama, Mistral, Grok
+- Local models via Ollama, LM Studio, llama.cpp
+- Models served by Groq, Together, Fireworks, OpenRouter
+
+If your agent supports Model Context Protocol, every tool in this library works with it. The model behind the agent does not matter.
 
 **Install** (one line):
 ```bash
